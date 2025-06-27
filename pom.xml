@@ -38,7 +38,7 @@
     </dependencies>
 
     <build>
-        <finalname>spring.jar</finalname> 
+        <finalName>spring.jar</finalName> 
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
